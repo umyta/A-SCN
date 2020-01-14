@@ -1,0 +1,1 @@
+- Run `download_checkpoint.sh` to download a set of pretrained `model.ckpt.*` for evaluation.

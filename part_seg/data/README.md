@@ -1,0 +1,2 @@
+- Download `hdf5_data` and  `PartAnnotation` from PointNet using `download_data.sh`.
+- Place the downloaded folders under this directory.

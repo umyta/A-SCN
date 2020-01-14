@@ -1,0 +1,2 @@
+- Download `modelnet40_ply_hdf5_2048` from PointNet using`donwload_data.sh`.
+- Place the dataset folder, `modelnet40_ply_hdf5_2048`, under this directory.
