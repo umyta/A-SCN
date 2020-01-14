@@ -1,7 +1,9 @@
 ### A-SCN: *Attentional ShapeContextNet for Point Cloud Recognition*
 Created by <a href="" target="_blank">Saining Xie*</a>, <a href="">Sainan Liu*</a>, <a href="" target="_blank">Zeyu Chen</a>, <a href="https://pages.ucsd.edu/~ztu/" target="_blank">Zhuowen Tu</a> from University of California, San Diego.
 
-<img src="https://github.com/umyta/A-SCN/blob/master/doc/teaser.png" width="40%">
+<p align="center">
+  <img src="https://github.com/umyta/A-SCN/blob/master/doc/teaser.png?raw=truewidth="40%"/>
+</p>
 
 ### Introduction
 This repository provides a sample code for the paper [Attentional ShapeContextNet for Point Cloud Recognition](http://pages.ucsd.edu/~ztu/publication/cvpr18_ascn.pdf).
